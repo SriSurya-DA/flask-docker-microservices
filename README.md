@@ -1,4 +1,4 @@
-# Flask App Deployment using Docker Compose
+# Scalable Flask Application Deployment with Nginx Load Balancing using Docker Compose
 
 This project is a simple practice setup to understand how a real backend application can be deployed using Docker.
 
